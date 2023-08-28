@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
