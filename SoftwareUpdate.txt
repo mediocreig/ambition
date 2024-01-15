@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
