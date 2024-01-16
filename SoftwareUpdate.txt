@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Tracker: clean up GMC (#8003)
